@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gems Beads</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #fff;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 1px solid #ddd;
+        }
+        nav {
+            text-align: center;
+            padding: 10px;
+        }
+        nav a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #fff;
+            text-align: center;
+            padding: 20px;
+            border-top: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Gems Beads</h1>
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#about">About Us</a>
+            <a href="#products">Products</a>
+            <a href="#contact">Contact Us</a>
+        </nav>
+    </header>
+    <section id="home">
+        <h2>Welcome to Gems Beads!</h2>
+        <p>Discover our unique collection of handmade jewelry crafted with handpicked beads from various sources around the world. Our pieces are designed to make you feel protected, relaxed, feminine, beautiful, and peaceful.</p>
+        <a href="#shop">Shop Now</a>
+    </section>
+    <section id="about">
+        <h2>Our Story</h2>
+        <p>At Gems Beads, we believe that jewelry is more than just an accessory; it’s a statement of your personality and style. Each piece of our handmade jewelry is crafted with love and attention to detail, using handpicked beads from different sources. Our mission is to create beautiful and meaningful jewelry that makes you feel special and confident.</p>
+    </section>
+    <section id="products">
+        <h2>Our Collection</h2>
+        <img src="image.png" alt="Handmade Jewelry" style="max-width:100%;">
+        <ul>
+            <li>Bracelets - Unique, handcrafted bracelets made with love.</li>
+            <li>Necklaces - Beautiful necklaces that add a touch of elegance to any outfit.</li>
+            <li>Earrings - Stunning earrings to complete your look.</li>
+            <li>Custom Pieces - Get a custom piece made just for you.</li>
+        </ul>
+        <a href="#shop">Shop All</a>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>We’d love to hear from you! Whether you have a question about our products or need assistance with an order, feel free to contact us.</p>
+        <p>Phone: +998977379556 (Eseniya)</p>
+    </section>
+    <footer>
+        <p>Stay Connected</p>
+        <p>Follow us on social media for the latest updates and exclusive offers.</p>
+    </footer>
+</body>
+</html>
